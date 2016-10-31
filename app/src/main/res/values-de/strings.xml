@@ -3,7 +3,7 @@
 
     <string name="banner_ad_unit_id">ca-app-pub-8112789878571769/4698215898</string>
     <string name="app_name">CellMapper</string>
-    <string name="menu_changeProvider">Change Provider</string>
+    <string name="menu_changeProvider">Netzbetreiber ändern</string>
     <string name="title_activity_main">Tower Map</string>
     <string name="title_activity_upload">Upload Data</string>
     <string name="loading">Loading...</string>
