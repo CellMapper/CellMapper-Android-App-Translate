@@ -4,7 +4,7 @@
     <string name="banner_ad_unit_id">ca-app-pub-8112789878571769/4698215898</string>
     <string name="app_name">CellMapper</string>
     <string name="menu_changeProvider">Netzbetreiber ändern</string>
-    <string name="title_activity_main">Mastenkarte</string>
+    <string name="title_activity_main">Senderkarte</string>
     <string name="title_activity_upload">Daten hochladen</string>
     <string name="loading">Loading...</string>
 
@@ -33,7 +33,7 @@
     <string name="text_speed">Geschwindigkeit</string>
     <string name="text_signal">Signal</string>
     <string name="text_points">Punkte</string>
-    <string name="text_towers">Masten</string>
+    <string name="text_towers">Sender</string>
     <string name="text_airplane_mode">Flugmodus erkannt!\nDeaktiviere den Flugmodus und starte die App neu.</string>
     <string name="text_error">Fehler</string>
 
@@ -41,7 +41,7 @@
     <string name="activity_user_username">Nutzername</string>
     <string name="activity_user_total_points">Gesamte Punkte</string>
     <string name="activity_user_total_cells">Gesamte Zellen</string>
-    <string name="activity_user_total_towers_moved">Gesamte verschobene Masten</string>
+    <string name="activity_user_total_towers_moved">Gesamte verschobene Sender</string>
     <string name="activity_user_error_logging_in">Fehler beim Einloggen!</string>
     <string name="activity_user_register">Registrieren</string>
     <string name="activity_user_reset">Reset</string>
@@ -59,10 +59,10 @@
     <string name="menu_text_changemaptype">Kartentyp ändern</string>
     <string name="menu_text_open_map_in_brower">Im Browser öffnen</string>
     <string name="menu_text_filter_bands">Frequenzen Filtern</string>
-    <string name="menu_text_filter_tower">Mastensuche</string>
+    <string name="menu_text_filter_tower">Sendersuche</string>
 
     <string name="filter_tower_hint">ex. 12345, 00ABA, 0x1234</string>
-    <string name="filter_tower_description">Mastennummer eingeben: hex- oder dezimal</string>
+    <string name="filter_tower_description">Sendernummer eingeben: hex- oder dezimal</string>
     <string name="select_map_type">Kartentyp auswählen</string>
 
 
