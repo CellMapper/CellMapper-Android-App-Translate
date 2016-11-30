@@ -28,7 +28,7 @@
     <string name="text_network_type">Netztyp</string>
     <string name="text_current_provider">Aktueller Betreiber</string>
     <string name="text_local_data">Lokal berechnete Daten</string>
-    <string name="text_bearing">Bearing</string>
+    <string name="text_bearing">Peilung</string>
     <string name="text_altitude">Höhe</string>
     <string name="text_speed">Geschwindigkeit</string>
     <string name="text_signal">Signal</string>
@@ -36,7 +36,6 @@
     <string name="text_towers">Masten</string>
     <string name="text_airplane_mode">Flugmodus erkannt!\nDeaktiviere den Flugmodus und starte die App neu.</string>
     <string name="text_error">Fehler</string>
-
     <!-- User Screen -->
     <string name="activity_user_username">Nutzername</string>
     <string name="activity_user_total_points">Gesamte Punkte</string>
@@ -62,20 +61,20 @@
     <string name="menu_text_filter_tower">Mastensuche</string>
 
     <string name="filter_tower_hint">ex. 12345, 00ABA, 0x1234</string>
-    <string name="filter_tower_description">Mastennummer eingeben: hex- oder dezimal</string>
+    <string name="filter_tower_description">Mastennummer eingeben: Hex- oder dezimal</string>
     <string name="select_map_type">Kartentyp auswählen</string>
 
 
     <!-- Login Screen -->
-    <string name="activity_login_login_ok">Login OK</string>
-    <string name="activity_login_login_error">Login Fehler</string>
+    <string name="activity_login_login_ok">Login erfolgreich</string>
+    <string name="activity_login_login_error">Loginfehler</string>
     <string name="activity_login_not_logged_in">Nicht eingeloggt</string>
 
     
     <!-- Upload Screen -->
-    <string name="activity_upload_helptext">Diese Seite ist dazu da Daten hochzuladen, wenn der Live-Upload ausgeschaltet ist.  Du kannst Daten jederzeit hochladen. \n\n</string>
+    <string name="activity_upload_helptext">Auf dieser Seite werden Daten hochgeladen werden, wenn der Live-Upload ausgeschaltet ist.  Du kannst Daten jederzeit hochladen. \n\n</string>
     <string name="menu_text_uploadnow">Upload starten</string>
-    <string name="menu_text_reupload">Reupload</string>
+    <string name="menu_text_reupload">Erneuter Upload</string>
     <string name="activity_upload_starting">Upload startet...</string>
     <string name="activity_upload_complete">Upload abgeschlossen</string>
     <string name="activity_upload_choose_start_date">Startdatum auswählen</string>
@@ -95,16 +94,16 @@
     <string name="tower_screen_lte_tac">Tracking Area Code</string>
     <string name="tower_screen_umts_lac">Location Area Code</string>
     <string name="tower_screen_cdma_sid">System ID</string>
-    <string name="tower_screen_located_by">Geortet von:</string>
+    <string name="tower_screen_located_by">Positioniert von:</string>
     <string name="tower_screen_first_seen">Erstsichtung</string>
     <string name="tower_screen_last_seen">Letzte Sichtung</string>
 
     
     <!--  Cells Screen -->
     <string name="cells_screen_gps_fix_too_old">GPS Fix zu lange her</string>
-    <string name="cells_screen_gps_fix_ok">GPS Fix OK</string>
+    <string name="cells_screen_gps_fix_ok">GPS Fix erfolgreich</string>
     <string name="cells_screen_gps_initializing">GPS Initialisierung</string>
-    <string name="cells_screen_gps_accuracy">Accuracy</string>
+    <string name="cells_screen_gps_accuracy">Genauigkeit</string>
     <string name="cells_screen_gps_satellites_locked">Satelliten gefunden</string>
     <string name="cells_screen_upload_status">Upload Status</string>
     <string name="cells_screen_wait_for_gps">Warte auf GPS</string>
@@ -175,7 +174,7 @@
     <string name="preferences_keep_screen_on_brightness_summary">How bright to keep the screen when the phone attempts to go to sleep.</string>
 
     <string name="preferences_record_neighbours_title">Zeichne Nachbarzellen auf</string>
-    <string name="preferences_record_neighbours_summary">Zeichnet Infos von Nachbarzellen auf. Sehr ungenau, außer dein Gerät untertützt die 4.2 CellID API.</string>       
+    <string name="preferences_record_neighbours_summary">Zeichnet Infos von Nachbarzellen auf. Sehr ungenau außer dein Gerät untertützt die 4.2 CellID API.</string>       
 
     <string name="preferences_suppress_errors_title">Unterdrücke Fehler</string>
     <string name="preferences_suppress_errors_summary">Versteckt alle Fehler Pop-Ups, außer sie sind wichtig.</string>       
